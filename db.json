@@ -1,4 +1,31 @@
 {
-    "students":[],
+    "students":[ {
+       " subName" : "Maths",
+        "desc" : "I am Maths"
+      },
+      {
+        "subName" : "Thermodynamics",
+        "desc" : "I am Thermodynamics"
+      },
+      {
+        "subName" : "DOM-1",
+        "desc" : "I am DOM-1"
+      },
+      {
+        "subName" : "Dom-2",
+        "desc" : "I am DOM-2"
+      },
+      {
+        "subName" : "Applied Thermodynamics",
+        "desc" : "I am Applied Thermodynamics"
+      },
+      {
+        "subName" : "Chemistry",
+        "desc" : "I am Chemistry"
+      },
+      {
+        "subName" : "Dan",
+        "desc" : "I am daniel"
+      }],
     "teachers":[]
 }
